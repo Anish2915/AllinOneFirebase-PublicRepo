@@ -46,9 +46,14 @@ The AllinOneFirebase (AOF) Firebase Plugin for Unreal Engine (C++) is a powerful
 The **Blueprints** that are available for the Realtime Database are shown below:
 ![AOF_Realtime_Database](https://github.com/Anish2915/FirebaseDevelopment/assets/142619454/adb7ddab-0050-4e41-98c9-589d25a63adb)
 
-🎬 The using of Realtime Database blueprints can be shown in the videos below:
-https://github.com/Anish2915/FirebaseDevelopment/blob/main/AOF_Realtime_Database_video.mkv
-https://github.com/Anish2915/FirebaseDevelopment/blob/main/AOF_UsageEG.mkv
+### 🎬 The using of Realtime Database blueprints can be shown in the videos below:
+
+https://github.com/Anish2915/AllinOneFirebase-PublicRepo/assets/137883198/5771ded6-b2b6-4a69-ad59-b573aabc9bb3
+
+https://github.com/Anish2915/AllinOneFirebase-PublicRepo/assets/137883198/8b2d0c8c-a39a-42a0-a26e-698f49c3dc47
+
+
+
 
 ### Firestore
 The **Blueprints** that are available for the Firestore are shown below:
