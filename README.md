@@ -80,6 +80,6 @@ For any related queries contact: <br>
 ## Link to Actual Repository: <a href="https://github.com/Anish2915/FirebaseDevelopment">Click Here</a>
 
 ## 📰 License
-The AllinOneFirebase is under no liscence. User can't edit it. They can only ciew it.
+The AllinOneFirebase is under no liscence. User can't edit it. They can only view it.
 
 
